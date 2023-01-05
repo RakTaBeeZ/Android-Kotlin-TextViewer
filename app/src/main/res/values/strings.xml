@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Text Viewer</string>
+    <string name="P_Input">Previous Input</string>
+    <string name="D_Input">Display Input</string>
+    <string name="R_text">Reset output text</string>
+    <string name="H_Text">TextView and EditText</string>
+    <string name="button">CLICK BUTTON</string>
+    <string name="r_button">RESET DISPLAY INPUT</string>
+</resources>
